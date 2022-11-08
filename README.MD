@@ -1,4 +1,4 @@
-# Repair badly decoded latin strings \x00 | \226\130\172 | â€œ | \xe2\x84\xa2 | \u2122 | &#032; | & yuml;
+# Repair badly decoded latin strings \x00 | \226\130\172 | â€œ | \xe2\x84\xa2 | \u2122 | & #032; | & yuml;
 
 ```python
 $pip install LatinFixer
